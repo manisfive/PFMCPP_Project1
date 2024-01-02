@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      squirrel
+//  action 1:  hibernates
+squirrel.hibernate();
+//  action 2:  gathers nuts
+squirrel.gatherNuts();
+//  action 3:  runs away
+squirrel.runsAway();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      cup
+//  action 1:  abides
+cup.abide();
+//  action 2:  shatters
+cup.shatter();
+//  action 3:  conveys liquid
+cup.conveyLiquid();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      krill
+//  action 1:  drifts
+krill.drift();
+//  action 2:  provides nutrients
+krill.provideNutrients();
+//  action 3:  swim
+krill.swim();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      mosquito
+//  action 1:  fly
+mosquito.fly();
+//  action 2:  bite
+mosquito.bite();
+//  action 3:  spawn
+mosquito.spawn();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      SpiderMan
+//  action 1:  swing
+spiderMan.swing();
+//  action 2:  quip
+spiderMan.quip();
+//  action 3:  punch a thug
+spiderMan.punchThug();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      Seth Rollins
+//  action 1:  Shooting Star Press
+rollins.shootingStarPress();
+//  action 2:  Curb Stomp
+rollins.curbStomp();
+//  action 3:  Pedigree
+rollins.pedigree();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      Dean Ambrose
+//  action 1:  Dirty Deeds
+ambrose.dirtyDeeds();
+//  action 2:  throw 12-20 chairs
+ambrose.rainChairs();
+//  action 3:  Thesz press
+ambrose.theszPress();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      Roman Reigns
+//  action 1:  superman punch
+reigns.supermanPunch();
+//  action 2:  triple powerbomb
+reigns.triplePoweromb();
+//  action 3:  headbutt
+reigns.heabutt();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      CM Punk
+//  action 1:  Go to Sleep
+punk.goToSleep();
+//  action 2:  Anaconda Vice
+punk.anacondaVice();
+//  action 3:  sit
+punk.sit();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:      Bray Wyatt
+//  action 1:  Sister Abigail
+wyatt.sisterAbigail();
+//  action 2:  creepy dance
+wyatt.creepyDance();
+//  action 3:  side slam
+wyatt.sideSlam();
 
 
 #endif
