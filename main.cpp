@@ -70,13 +70,13 @@ cup.shatter();
 cup.conveyLiquid();
 
 //  3)
-//  Noun:      person
-//  action 1:  walk
-person.walk();
-//  action 2:  run
-person.run();
-//  action 3:  press car accelerator
-person.pressCarAccelerator();
+//  Noun:      common goldeneye
+//  action 1:  catch a fish
+commonGoldeneye.catchFish();
+//  action 2:  fly south
+commonGoldeneye.flySouth();
+//  action 3:  build a nest
+commonGoldeneye.buildNest();
 
 //  4)
 //  Noun:      mosquito
@@ -99,47 +99,47 @@ spiderMan.punchThug();
 //  6)
 //  Noun:      Seth Rollins
 //  action 1:  jump with backwards rotation
-rollins.jumpWithBackwardsRotation();
+sethRollins.jumpWithBackwardsRotation();
 //  action 2:  fall through a table
-rollins.fallThroughTable();
+sethRollins.fallThroughTable();
 //  action 3:  kiss the boss's ass
-rollins.kissBossAss();
+sethRollins.kissBossAss();
 
 //  7)
 //  Noun:      Dean Ambrose
 //  action 1:  punch
-ambrose.punch();
+deanAmbrose.punch();
 //  action 2:  throw chairs
-ambrose.throwChairs();
+deanAmbrose.throwChairs();
 //  action 3:  pace
-ambrose.pace();
+deanAmbrose.pace();
 
 //  8)
 //  Noun:      Roman Reigns
 //  action 1:  punch with forward jump
-reigns.punchWithForwardJump();
+romanReigns.punchWithForwardJump();
 //  action 2:  lift and throw opponent
-reigns.liftAndThrowOpponent();
+romanReigns.liftAndThrowOpponent();
 //  action 3:  headbutt
-reigns.heabutt();
+romanReigns.heabutt();
 
 //  9)
 //  Noun:      CM Punk
 //  action 1:  knee opponent's face
-punk.kneeOpponentsFace();
+cmPunk.kneeOpponentsFace();
 //  action 2:  snarl
-punk.snarl();
+cmPunk.snarl();
 //  action 3:  sit
-punk.sit();
+cmPunk.sit();
 
 //  10)
 //  Noun:      Bray Wyatt
 //  action 1:  blow out lantern
-wyatt.blowOutLantern();
+brayWyatt.blowOutLantern();
 //  action 2:  waltz
-wyatt.waltz();
+brayWyatt.waltz();
 //  action 3:  laugh
-wyatt.laugh();
+brayWyatt.laugh();
 
 
 #endif
