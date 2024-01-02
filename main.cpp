@@ -70,13 +70,13 @@ cup.shatter();
 cup.conveyLiquid();
 
 //  3)
-//  Noun:      krill
-//  action 1:  drifts
-krill.drift();
-//  action 2:  provides nutrients
-krill.provideNutrients();
-//  action 3:  swim
-krill.swim();
+//  Noun:      person
+//  action 1:  walk
+person.walk();
+//  action 2:  run
+person.run();
+//  action 3:  press car accelerator
+person.pressCarAccelerator();
 
 //  4)
 //  Noun:      mosquito
@@ -98,48 +98,48 @@ spiderMan.punchThug();
 
 //  6)
 //  Noun:      Seth Rollins
-//  action 1:  Shooting Star Press
-rollins.shootingStarPress();
-//  action 2:  Curb Stomp
-rollins.curbStomp();
-//  action 3:  Pedigree
-rollins.pedigree();
+//  action 1:  jump with backwards rotation
+rollins.jumpWithBackwardsRotation();
+//  action 2:  fall through a table
+rollins.fallThroughTable();
+//  action 3:  kiss the boss's ass
+rollins.kissBossAss();
 
 //  7)
 //  Noun:      Dean Ambrose
-//  action 1:  Dirty Deeds
-ambrose.dirtyDeeds();
-//  action 2:  throw 12-20 chairs
-ambrose.rainChairs();
-//  action 3:  Thesz press
-ambrose.theszPress();
+//  action 1:  punch
+ambrose.punch();
+//  action 2:  throw chairs
+ambrose.throwChairs();
+//  action 3:  pace
+ambrose.pace();
 
 //  8)
 //  Noun:      Roman Reigns
-//  action 1:  superman punch
-reigns.supermanPunch();
-//  action 2:  triple powerbomb
-reigns.triplePoweromb();
+//  action 1:  punch with forward jump
+reigns.punchWithForwardJump();
+//  action 2:  lift and throw opponent
+reigns.liftAndThrowOpponent();
 //  action 3:  headbutt
 reigns.heabutt();
 
 //  9)
 //  Noun:      CM Punk
-//  action 1:  Go to Sleep
-punk.goToSleep();
-//  action 2:  Anaconda Vice
-punk.anacondaVice();
+//  action 1:  knee opponent's face
+punk.kneeOpponentsFace();
+//  action 2:  snarl
+punk.snarl();
 //  action 3:  sit
 punk.sit();
 
 //  10)
 //  Noun:      Bray Wyatt
-//  action 1:  Sister Abigail
-wyatt.sisterAbigail();
-//  action 2:  creepy dance
-wyatt.creepyDance();
-//  action 3:  side slam
-wyatt.sideSlam();
+//  action 1:  blow out lantern
+wyatt.blowOutLantern();
+//  action 2:  waltz
+wyatt.waltz();
+//  action 3:  laugh
+wyatt.laugh();
 
 
 #endif
