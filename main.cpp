@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      squirrel
+//  action 1:  hibernates
+squirrel.hibernate();
+//  action 2:  gathers nuts
+squirrel.gatherNuts();
+//  action 3:  runs away
+squirrel.runsAway();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      cup
+//  action 1:  abides
+cup.abide();
+//  action 2:  shatters
+cup.shatter();
+//  action 3:  conveys liquid
+cup.conveyLiquid();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      common goldeneye
+//  action 1:  catch a fish
+commonGoldeneye.catchFish();
+//  action 2:  fly south
+commonGoldeneye.flySouth();
+//  action 3:  build a nest
+commonGoldeneye.buildNest();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      mosquito
+//  action 1:  fly
+mosquito.fly();
+//  action 2:  bite
+mosquito.bite();
+//  action 3:  spawn
+mosquito.spawn();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      SpiderMan
+//  action 1:  swing
+spiderMan.swing();
+//  action 2:  quip
+spiderMan.quip();
+//  action 3:  punch a thug
+spiderMan.punchThug();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      Seth Rollins
+//  action 1:  jump with backwards rotation
+sethRollins.jumpWithBackwardsRotation();
+//  action 2:  fall through a table
+sethRollins.fallThroughTable();
+//  action 3:  kiss the boss's ass
+sethRollins.kissBossAss();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      Dean Ambrose
+//  action 1:  punch
+deanAmbrose.punch();
+//  action 2:  throw chairs
+deanAmbrose.throwChairs();
+//  action 3:  pace
+deanAmbrose.pace();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      Roman Reigns
+//  action 1:  punch with forward jump
+romanReigns.punchWithForwardJump();
+//  action 2:  lift and throw opponent
+romanReigns.liftAndThrowOpponent();
+//  action 3:  headbutt
+romanReigns.heabutt();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      CM Punk
+//  action 1:  knee opponent's face
+cmPunk.kneeOpponentsFace();
+//  action 2:  snarl
+cmPunk.snarl();
+//  action 3:  sit
+cmPunk.sit();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:      Bray Wyatt
+//  action 1:  blow out lantern
+brayWyatt.blowOutLantern();
+//  action 2:  waltz
+brayWyatt.waltz();
+//  action 3:  laugh
+brayWyatt.laugh();
 
 
 #endif
